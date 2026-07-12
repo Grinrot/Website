@@ -7,26 +7,24 @@ const observer=new IntersectionObserver((entries)=>{entries.forEach(entry=>{if(e
 document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));
 const cases={
  'file-000':{
+ 
   title:'CODEX 000: The Archivist',
   body:`
-    <h2>The Archivist</h2>
     <p><strong>Classification:</strong> Keeper of the Codex</p>
+    <p><strong>Origin:</strong> Unrecorded</p>
     <p><strong>Status:</strong> Active</p>
-    <p><strong>Classification:</strong> Keeper of the Codex</p>
-<p><strong>Origin:</strong> Unrecorded</p>
-<p><strong>Status:</strong> Active</p>
 
-<h3>Observation</h3>
+    <h3>Observation</h3>
 
-<p>The Archivist does not create the entities found within Grin Rot. It discovers them, records them, and preserves what survives.</p>
+    <p>The Archivist gathers the entities, relics, sightings, and accounts that survive within Grin Rot.</p>
 
-<p>Every mask, relic, photograph, sighting, and whispered account eventually finds its way into the Codex.</p>
+    <p>Its purpose remains uncertain. It observes, preserves, and reveals only what it chooses.</p>
 
-<p>Whether the Archivist preserves history or manufactures it has never been determined.</p>
+    <h3>Archivist's Note</h3>
 
-<h3>Archivist's Note</h3>
-
-<p><em>Nothing is truly forgotten. Some things are merely waiting to be cataloged.</em></p>
+    <p><em>Nothing is truly forgotten. Some things are merely waiting to be cataloged.</em></p>
+  `
+},
   `
 },
  'file-001':{title:'CODEX 001: The Smile in the Tree Line',body:'A hunter reported seeing a pale face between two poplars off an old ridge trail. The face did not move. The grin did. When he returned with others, every tree in the area had been marked with the same symbol.'},
