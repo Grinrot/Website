@@ -25,8 +25,7 @@ const cases={
     <p><em>Nothing is truly forgotten. Some things are merely waiting to be cataloged.</em></p>
   `
 },
-  `
-},
+  
  'file-001':{title:'CODEX 001: The Smile in the Tree Line',body:'A hunter reported seeing a pale face between two poplars off an old ridge trail. The face did not move. The grin did. When he returned with others, every tree in the area had been marked with the same symbol.'},
  'file-002':{title:'CODEX 002: The Doctor Came After Midnight',body:'Local accounts describe a black-beaked figure moving through fog after midnight. No footsteps. No voice. Just the scrape of leather and the smell of wet leaves. Folks around here know better than to ask for a house call.'},
  'file-003':{title:'CODEX 003: The Laughing Thing',body:'The recording is mostly static. Underneath it, there is laughter. Not human. Not animal. Something between a carnival and a warning siren. The tape ends with one clear sentence: do not smile back.'}
