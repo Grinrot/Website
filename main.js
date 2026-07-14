@@ -34,7 +34,7 @@ const cases={
   body: `
     <p><strong>Classification:</strong> Recovered Media</p>
     <p><strong>Source:</strong> Unknown</p>
-    <p><strong>Status:</strong> Public Release</p>
+    <p><strong>Status:</strong> Archived Footage</p>
 
     <h3>Recovered Record</h3>
 
