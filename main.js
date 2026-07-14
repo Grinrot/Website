@@ -43,7 +43,8 @@ const cases={
     </p>
 
     <video controls playsinline preload="metadata"
-           style="width:100%; border-radius:12px; margin-top:1rem;">
+       poster="fear-death-thumb.png"
+       style="width:100%; border-radius:12px; margin-top:1rem;">
       <source src="fear-death-001.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
