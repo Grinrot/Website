@@ -65,7 +65,7 @@ body: `
 A short video depicting the entity known as Doktor Rot. The original recording contains no identifiable metadata linking it to a specific location, date, or photographer. No accompanying statement was recovered with the file.
 </p>
 
-<video controls playsinline preload="metadata" style="width:100%; border-radius:12px; margin-top:1rem;">
+<video controls playsinline preload="metadata" poster="doktor-rot-thumb.jpg" style="width:100%; border-radius:12px; margin-top:1rem;">
     <source src="doktor-rot-001.mp4" type="video/mp4">
 </video>
 
