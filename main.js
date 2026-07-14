@@ -36,7 +36,7 @@ const cases={
     <p><strong>Source:</strong> Unknown</p>
     <p><strong>Status:</strong> Archived Footage</p>
 
-    <h3>Recovered Footage</h3>
+    <h3>Evidence Summary</h3>
 
     <p>
       A sequence of newspaper clippings documenting alleged Grin Rot sightings
