@@ -42,7 +42,11 @@ const cases={
      Compilation assembled from newspaper clippings, eyewitness photographs, and anonymous recordings recovered throughout Appalachia. Dates remain disputed. Subject identity does not.
     </p>
 
-    <video controls playsinline preload="metadata" style="width:100%; border-radius:12px; margin-top:1rem;">
+    <video controls playsinline preload="metadata"
+       poster="grin-rot-footage-thumb.png"
+       style="width:100%; border-radius:12px; margin-top:1rem;">
+    <source src="recovered-footage-web.mp4" type="video/mp4">
+</video>
       <source src="recovered-footage-web.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
