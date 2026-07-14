@@ -29,6 +29,30 @@ const cases={
  'file-001':{title:'CODEX 001: The Smile in the Tree Line',body:'A hunter reported seeing a pale face between two poplars off an old ridge trail. The face did not move. The grin did. When he returned with others, every tree in the area had been marked with the same symbol.'},
  'file-002':{title:'CODEX 002: The Doctor Came After Midnight',body:'Local accounts describe a black-beaked figure moving through fog after midnight. No footsteps. No voice. Just the scrape of leather and the smell of wet leaves. Folks around here know better than to ask for a house call.'},
  'file-003':{title:'CODEX 003: The Laughing Thing',body:'The recording is mostly static. Underneath it, there is laughter. Not human. Not animal. Something between a carnival and a warning siren. The tape ends with one clear sentence: do not smile back.'}
+ 'file-004': {
+  title: 'CODEX 004: Recovered Footage',
+  body: `
+    <p><strong>Classification:</strong> Recovered Media</p>
+    <p><strong>Source:</strong> Unknown</p>
+    <p><strong>Status:</strong> Public Release</p>
+
+    <h3>Recovered Record</h3>
+
+    <p>
+      A sequence of newspaper clippings documenting alleged Grin Rot sightings
+      across Appalachia. Dates and locations remain disputed.
+    </p>
+
+    <video controls playsinline preload="metadata" style="width:100%; border-radius:12px; margin-top:1rem;">
+      <source src="recovered-footage-001.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <h3>Archivist's Note</h3>
+
+    <p><em>The papers disagreed about the dates. They never disagreed about the sightings.</em></p>
+  `
+},
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
