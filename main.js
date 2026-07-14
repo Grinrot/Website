@@ -51,6 +51,28 @@ const cases={
 
     <p><em>The papers disagreed about the dates. They never disagreed about the sightings.</em></p>
   `
+ 'file-005': {
+title: 'CODEX 005: Doktor Rot',
+body: `
+<p><strong>Classification:</strong> Found Footage</p>
+<p><strong>Source:</strong> Anonymous Submission</p>
+<p><strong>Status:</strong> Unresolved</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+A short video depicting the entity known as Doktor Rot. The original recording contains no identifiable metadata linking it to a specific location, date, or photographer. No accompanying statement was recovered with the file.
+</p>
+
+<video controls playsinline preload="metadata" style="width:100%; border-radius:12px; margin-top:1rem;">
+    <source src="doktor-rot-001.mp4" type="video/mp4">
+</video>
+
+<h3>Archivist's Note</h3>
+
+<p><em>Unlike Grin Rot, Doktor Rot never appears to be searching. He behaves as though he already knows exactly where he belongs.</em></p>
+`
+}, 
 },
 };
 const modal=document.getElementById('caseModal');
