@@ -73,7 +73,6 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 <p><em>Unlike Grin Rot, Doktor Rot never appears to be searching. He behaves as though he already knows exactly where he belongs.</em></p>
 `
 }, 
-},
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
