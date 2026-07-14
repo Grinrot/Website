@@ -27,7 +27,32 @@ const cases={
 },
   
  'file-001':{title:'CODEX 001: The Smile in the Tree Line',body:'A hunter reported seeing a pale face between two poplars off an old ridge trail. The face did not move. The grin did. When he returned with others, every tree in the area had been marked with the same symbol.'},
- 'file-002':{title:'CODEX 002: The Doctor Came After Midnight',body:'Local accounts describe a black-beaked figure moving through fog after midnight. No footsteps. No voice. Just the scrape of leather and the smell of wet leaves. Folks around here know better than to ask for a house call.'},
+ 'file-002': {
+  title: 'CODEX 002: Fear of Death',
+  body: `
+    <p><strong>Classification:</strong> Found Footage</p>
+    <p><strong>Source:</strong> Anonymous Submission</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>
+      A brief recording recovered without identifying information.
+      The footage appears to document a direct encounter with an unidentified entity.
+      No additional context accompanied the file.
+    </p>
+
+    <video controls playsinline preload="metadata"
+           style="width:100%; border-radius:12px; margin-top:1rem;">
+      <source src="fear-death-001.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+
+    <h3>Archivist's Note</h3>
+
+    <p><em>Fear of death is common. Recognition is something else entirely.</em></p>
+  `
+},
  'file-003':{title:'CODEX 003: The Laughing Thing',body:'The recording is mostly static. Underneath it, there is laughter. Not human. Not animal. Something between a carnival and a warning siren. The tape ends with one clear sentence: do not smile back.'},
  'file-004': {
   title: 'CODEX 004: Recovered Footage',
