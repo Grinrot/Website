@@ -33,14 +33,13 @@ const cases={
   title: 'CODEX 004: Recovered Footage',
   body: `
     <p><strong>Classification:</strong> Recovered Media</p>
-    <p><strong>Source:</strong> Unknown</p>
+    <p><strong>Source:</strong> Public Archives</p>
     <p><strong>Status:</strong> Archived Footage</p>
 
     <h3>Evidence Summary</h3>
 
     <p>
-      A sequence of newspaper clippings documenting alleged Grin Rot sightings
-      across Appalachia. Dates and locations remain disputed.
+     Compilation assembled from newspaper clippings, eyewitness photographs, and anonymous recordings recovered throughout Appalachia. Dates remain disputed. Subject identity does not.
     </p>
 
     <video controls playsinline preload="metadata" style="width:100%; border-radius:12px; margin-top:1rem;">
