@@ -119,16 +119,16 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
 
 <div class="gallery">
 
-<a href="doktor-rot-gallery-01.jpg. jpg" target="_blank">
-<img src="doktor-rot-gallery-01.jpg. jpg" alt="Doktor Rot Evidence 01">
+<a href="doktor-rot-gallery-01.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-01.jpg.jpg" alt="Doktor Rot Evidence 01">
 </a>
 
-<a href="doktor-rot-gallery-02.jpg. jpg" target="_blank">
-<img src="doktor-rot-gallery-02.jpg. jpg" alt="Doktor Rot Evidence 02">
+<a href="doktor-rot-gallery-02.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-02.jpg.jpg" alt="Doktor Rot Evidence 02">
 </a>
 
-<a href="doktor-rot-gallery-03.jpg. jpg" target="_blank">
-<img src="doktor-rot-gallery-03.jpg. jpg" alt="Doktor Rot Evidence 03">
+<a href="doktor-rot-gallery-03.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-03.jpg.jpg" alt="Doktor Rot Evidence 03">
 </a>
 
 </div>
