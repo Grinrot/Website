@@ -172,7 +172,7 @@ Victims consistently describe uncontrollable laughter moments before the attacks
 <h3>Evidence Summary</h3>
 
 <p>
-Witnesses describe a masked figure carrying a weapon fashioned from a baseball bat and an industrial saw blade. The stitches around its jaw appear to be restraints rather than repairs. No surviving report explains who placed them there.
+Witnesses describe a masked figure carrying a weapon fashioned from a baseball bat and an industrial saw blade. The stitches around its jaw appear to be restraints rather than repairs. No surviving record identifies who stitched the restraints… or why they failed.
 </p>
 
 <h3>Archivist's Note</h3>
