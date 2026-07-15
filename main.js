@@ -162,6 +162,26 @@ Victims consistently describe uncontrollable laughter moments before the attacks
 <p><em>He never laughs. That's the part everyone remembers wrong. The laughter always comes from everyone else.</em></p>
 `
 },
+ 'file-008': {
+  title: 'CODEX 008: The Unbound',
+  body: `
+<p><strong>Classification:</strong> Breach Entity</p>
+<p><strong>Source:</strong> Failed Containment Records</p>
+<p><strong>Status:</strong> Cannot Be Contained</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+Witnesses describe a masked figure carrying a weapon fashioned from a baseball bat and an industrial saw blade. The stitches around its jaw appear to be restraints rather than repairs. No surviving report explains who placed them there.
+</p>
+
+<h3>Archivist's Note</h3>
+
+<p><em>
+The restraints failed first. The weapon came later.
+</em></p>
+`
+},
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
