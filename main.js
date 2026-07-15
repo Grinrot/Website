@@ -140,7 +140,7 @@ No document explains his crime. Every document agrees on his sentence.
 `
 },
  'file-006': {
-title: 'CODEX 006: The Laughing Bastard',
+title: 'CODEX 007: The Laughing Bastard',
 body: `
 <p><strong>Classification:</strong> Chaotic Entity</p>
 <p><strong>Source:</strong> Multiple Witness Accounts</p>
