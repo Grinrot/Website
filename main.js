@@ -120,6 +120,26 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 `
 }, 
  'file-006': {
+    title: 'CODEX 006: The Apostate',
+    body: `
+<p><strong>Classification:</strong> Fallen Entity</p>
+<p><strong>Source:</strong> Confiscated Parish Records</p>
+<p><strong>Status:</strong> Excommunicated</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+Ancient church records reference an unnamed believer condemned for an act described only as "the final blasphemy." Every surviving witness claims he never removes the painted face that conceals his own.
+</p>
+
+<h3>Archivist's Note</h3>
+
+<p><em>
+No document explains his crime. Every document agrees on his sentence.
+</em></p>
+`
+},
+ 'file-006': {
 title: 'CODEX 006: The Laughing Bastard',
 body: `
 <p><strong>Classification:</strong> Chaotic Entity</p>
