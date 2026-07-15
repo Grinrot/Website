@@ -38,7 +38,7 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
 
 <h3>Archivist's Note</h3>
 
-<p><em>No recognized church has ever acknowledged The False Saint. That has never stopped people from praying to him.</em></p>'},
+<p><em>No recognized church has ever acknowledged The False Saint. That has never stopped people from praying to him.
 </em></p>
 `
 },
