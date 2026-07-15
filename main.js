@@ -113,7 +113,7 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 <video controls playsinline preload="metadata"
        poster="doktor-rot-thumb.png"
        style="width:100%; border-radius:12px; margin-top:1rem;">
-  <source src="doktor-rot-001-web.mp4" type="video/mp4">
+  <source src="doktor-rot-001.mp4" type="video/mp4">
   Your browser does not support embedded video.
 </video>
 
