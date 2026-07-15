@@ -26,7 +26,19 @@ const cases={
   `
 },
   
- 'file-001':{title:'CODEX 001: The Smile in the Tree Line',body:'A hunter reported seeing a pale face between two poplars off an old ridge trail. The face did not move. The grin did. When he returned with others, every tree in the area had been marked with the same symbol.'},
+ 'file-001':{title:'CODEX 001: The False Saint',body:'<p><strong>Classification:</strong> Cult Entity</p>
+<p><strong>Source:</strong> Anonymous Parish Records</p>
+<p><strong>Status:</strong> Active</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+Multiple abandoned churches throughout Appalachia contain the same crude symbol carved into their altars. Survivors insist a smiling figure stood among the congregation, though no photographs have ever clearly captured his face.
+</p>
+
+<h3>Archivist's Note</h3>
+
+<p><em>No recognized church has ever acknowledged The False Saint. That has never stopped people from praying to him.</em></p>'},
  'file-002': {
   title: 'CODEX 002: Fear of Death',
   body: `
