@@ -39,6 +39,9 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
 <h3>Archivist's Note</h3>
 
 <p><em>No recognized church has ever acknowledged The False Saint. That has never stopped people from praying to him.</em></p>'},
+</em></p>
+`
+},
  'file-002': {
   title: 'CODEX 002: Fear of Death',
   body: `
