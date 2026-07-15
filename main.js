@@ -115,6 +115,23 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
       never heal. Those who encounter him remember only the smell of decay and
       the feeling that they were examined rather than spared.
     </p>
+    <h3>Recovered Evidence</h3>
+
+<div class="gallery">
+
+<a href="doktor-rot-gallery-01.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-01.jpg.jpg" alt="Doktor Rot Evidence 01">
+</a>
+
+<a href="doktor-rot-gallery-02.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-02.jpg.jpg" alt="Doktor Rot Evidence 02">
+</a>
+
+<a href="doktor-rot-gallery-03.jpg.jpg" target="_blank">
+<img src="doktor-rot-gallery-03.jpg.jpg" alt="Doktor Rot Evidence 03">
+</a>
+
+</div>
   `
 },
  'file-005': {
