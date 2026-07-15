@@ -26,7 +26,7 @@ const cases={
   `
 },
   
- 'file-001':{title:'CODEX 001: The False Saint',body:body: `<p><strong>Classification:</strong> Cult Entity</p>
+ 'file-001':{title:'CODEX 001: The False Saint',body: `<p><strong>Classification:</strong> Cult Entity</p>
 <p><strong>Source:</strong> Anonymous Parish Records</p>
 <p><strong>Status:</strong> Active</p>
 
