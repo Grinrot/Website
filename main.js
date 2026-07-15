@@ -97,6 +97,26 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
     <p><em>The papers disagreed about the dates. They never disagreed about the sightings.</em></p>
   `
   },
+ 'doktor-profile': {
+  title: 'Doktor Rot',
+  body: `
+    <p><strong>Classification:</strong> Pestilence Entity</p>
+    <p><strong>Status:</strong> Active</p>
+
+    <h3>Biography</h3>
+
+    <p>
+      Doktor Rot appears only after the dying is finished. He does not hunt.
+      He simply arrives to inspect what remains.
+    </p>
+
+    <p>
+      Witnesses describe a silent physician carrying rusted instruments that
+      never heal. Those who encounter him remember only the smell of decay and
+      the feeling that they were examined rather than spared.
+    </p>
+  `
+},
  'file-005': {
 title: 'CODEX 005: Doktor Rot',
 body: `
