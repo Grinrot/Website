@@ -110,7 +110,12 @@ body: `
 A short video depicting the entity known as Doktor Rot. The original recording contains no identifiable metadata linking it to a specific location, date, or photographer. No accompanying statement was recovered with the file.
 </p>
 
-
+<video controls playsinline preload="metadata"
+       poster="doktor-rot-thumb.png"
+       style="width:100%; border-radius:12px; margin-top:1rem;">
+  <source src="doktor-rot-001-web.mp4" type="video/mp4">
+  Your browser does not support embedded video.
+</video>
 
 <h3>Archivist's Note</h3>
 
