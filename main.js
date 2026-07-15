@@ -119,6 +119,24 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 <p><em>Unlike Grin Rot, Doktor Rot never appears to be searching. He behaves as though he already knows exactly where he belongs.</em></p>
 `
 }, 
+ 'file-006': {
+title: 'CODEX 006: The Laughing Bastard',
+body: `
+<p><strong>Classification:</strong> Chaotic Entity</p>
+<p><strong>Source:</strong> Multiple Witness Accounts</p>
+<p><strong>Status:</strong> Active</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+Victims consistently describe uncontrollable laughter moments before the attacks began. The entity appears without warning, remaining completely silent while those around him descend into panic.
+</p>
+
+<h3>Archivist's Note</h3>
+
+<p><em>He never laughs. That's the part everyone remembers wrong. The laughter always comes from everyone else.</em></p>
+`
+},
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
