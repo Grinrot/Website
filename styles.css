@@ -22,16 +22,21 @@ transition:.2s;
 transform:scale(1.03);
 border-color:#b22;
 }
+
+
+/* Grin Rot Creed */
 .creed {
-  text-align: center;
-  margin: 4rem 1.5rem;
+    text-align: center;
+    margin: 5rem auto;
+    padding: 0 1.5rem;
+    max-width: 700px;
 }
 
 .creed p {
-  margin: 0.4rem 0;
-  color: var(--accent-color); /* Uses the same red as your sigil */
-  font-size: 1.15rem;
-  font-style: italic;
-  letter-spacing: 0.08em;
-  line-height: 1.6;
+    margin: .35rem 0;
+    color: var(--blood);
+    font-size: 1.2rem;
+    font-style: italic;
+    letter-spacing: .08em;
+    line-height: 1.6;
 }
