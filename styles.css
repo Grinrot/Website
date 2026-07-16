@@ -34,7 +34,7 @@ border-color:#b22;
 
 .creed p {
     margin: .35rem 0;
-    color: var(--blood);
+    color: var(--blood) !important;
     font-size: 1.2rem;
     font-style: italic;
     letter-spacing: .08em;
