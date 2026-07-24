@@ -117,3 +117,6 @@ border-color:#b22;
 .field-journal-folder summary{
   margin:0 !important;
 }
+.field-journal{
+  border-bottom:none !important;
+}
