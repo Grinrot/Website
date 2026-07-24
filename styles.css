@@ -118,5 +118,8 @@ border-color:#b22;
   margin:0 !important;
 }
 #field-journal{
-  border-bottom:1px solid rgba(255,255,255,.16) !important;
+  .journal-divider{
+  width:100%;
+  height:1px;
+  background:rgba(255,255,255,.16);
 }
