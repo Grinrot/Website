@@ -129,3 +129,6 @@ border-color:#b22;
 #creator{
   border-top:none !important;
 }
+#field-journal{
+  border-bottom:1px solid var(--line) !important;
+}
