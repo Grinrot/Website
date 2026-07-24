@@ -77,7 +77,7 @@ border-color:#b22;
 @media (min-width:760px){
   .field-journal-grid{
     grid-template-columns:repeat(3, minmax(0, 1fr));
-  }
+  
 }
 .field-journal-folder summary{
   list-style:none;
