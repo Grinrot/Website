@@ -123,3 +123,6 @@ border-color:#b22;
 .field-journal + .section{
   border-top:none !important;
 }
+#creator{
+  border-top:1px solid rgba(255,255,255,.16);
+}
