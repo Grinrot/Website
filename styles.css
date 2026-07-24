@@ -123,11 +123,7 @@ border-color:#b22;
   height:1px;
   background:rgba(255,255,255,.16);
 }
-#creator{
-  border-top:none !important;
-}
-#creator{
-  border-top:none !important;
+
 }
 #field-journal{
   border-bottom:1px solid var(--line) !important;
