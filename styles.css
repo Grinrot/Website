@@ -117,12 +117,6 @@ border-color:#b22;
 .field-journal-folder summary{
   margin:0 !important;
 }
-.field-journal{
-  border-bottom:none !important;
-}
-.field-journal + .section{
-  border-top:none !important;
-}
-#creator{
-  border-top:1px solid rgba(255,255,255,.16);
+#field-journal{
+  border-bottom:1px solid rgba(255,255,255,.16) !important;
 }
