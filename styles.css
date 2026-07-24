@@ -79,3 +79,27 @@ border-color:#b22;
     grid-template-columns:repeat(3, minmax(0, 1fr));
   }
 }
+.field-journal-folder summary{
+  list-style:none;
+  cursor:pointer;
+  font-weight:800;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  padding:1.1rem 0;
+}
+
+.field-journal-folder summary::-webkit-details-marker{
+  display:none;
+}
+
+.field-journal-folder summary::before{
+  content:"+";
+  display:inline-block;
+  margin-right:.75rem;
+  color:#b22;
+  font-size:1.2em;
+}
+
+.field-journal-folder[open] summary::before{
+  content:"−";
+}
