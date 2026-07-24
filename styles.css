@@ -103,3 +103,17 @@ border-color:#b22;
 .field-journal-folder[open] summary::before{
   content:"−";
 }
+.field-journal{
+  padding-top:1.5rem !important;
+  padding-bottom:1.5rem !important;
+  min-height:0 !important;
+}
+
+.field-journal-folder{
+  margin:0 !important;
+  padding:0 !important;
+}
+
+.field-journal-folder summary{
+  margin:0 !important;
+}
