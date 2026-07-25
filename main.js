@@ -252,5 +252,12 @@ The restraints failed first. The weapon came later.
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
 document.querySelectorAll('[data-case]').forEach(btn=>btn.addEventListener('click',()=>{const item=cases[btn.dataset.case];content.innerHTML=`<span class="file-stamp">RECOVERED DOCUMENT</span><h3>${item.title}</h3><p>${item.body}</p>`;modal.showModal();}));
+document.querySelectorAll('[data-case]').forEach(btn =>
+  btn.addEventListener('click', () =>
+    setTimeout(() => {
+      content.querySelectorAll('video').forEach(video => video.load());
+    }, 100)
+  )
+);
 document.querySelector('.close-modal')?.addEventListener('click',()=>modal.close());
 modal?.addEventListener('click',e=>{if(e.target===modal)modal.close();});
