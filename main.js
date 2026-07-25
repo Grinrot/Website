@@ -84,7 +84,7 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
     </p>
 
     <video
-  src="/Laughingbastard-1.mp4"
+  src="/Laughingbastard- 1.mp4"
   controls
   playsinline
   webkit-playsinline
