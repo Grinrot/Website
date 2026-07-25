@@ -132,3 +132,11 @@ border-color:#b22;
     cursor:pointer;
     letter-spacing:.01em;
 }
+.field-journal-folder summary{
+  font-family:inherit;
+  font-size:1.75rem;
+  font-weight:800;
+  line-height:1.1;
+  color:var(--bone);
+  cursor:pointer;
+}
