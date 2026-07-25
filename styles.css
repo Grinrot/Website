@@ -124,3 +124,11 @@ border-color:#b22;
 #field-journal{
   border-bottom:1px solid var(--line) !important;
 }
+#field-journal summary{
+    font-size:1.55rem;
+    font-weight:800;
+    color:var(--bone);
+    padding:1rem 0;
+    cursor:pointer;
+    letter-spacing:.01em;
+}
