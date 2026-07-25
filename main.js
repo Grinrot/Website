@@ -26,7 +26,7 @@ const cases={
   `
 },
   
- 'file-001':{title:'CODEX 001: The False Saint',body: `<p><strong>Classification:</strong> Cult Entity</p>
+ 'file-001':{title:'The False Saint',body: `<p><strong>Classification:</strong> Cult Entity</p>
 <p><strong>Source:</strong> Anonymous Parish Records</p>
 <p><strong>Status:</strong> Active</p>
 
@@ -70,7 +70,7 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
   `
 },
  'file-003': {
-  title: 'CODEX 003: The Laughing Thing',
+  title: 'The Laughing Thing',
   body: `
     <p><strong>Classification:</strong> Entity Observation</p>
     <p><strong>Source:</strong> Unknown</p>
@@ -190,7 +190,7 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 `
 }, 
  'file-006': {
-    title: 'CODEX 006: The Apostate',
+    title: 'The Apostate',
     body: `
 <p><strong>Classification:</strong> Fallen Entity</p>
 <p><strong>Source:</strong> Confiscated Parish Records</p>
@@ -210,7 +210,7 @@ No document explains his crime. Every document agrees on his sentence.
 `
 },
  'file-007': {
-title: 'CODEX 007: The Laughing Bastard',
+title: 'The Laughing Bastard',
 body: `
 <p><strong>Classification:</strong> Chaotic Entity</p>
 <p><strong>Source:</strong> Multiple Witness Accounts</p>
@@ -228,7 +228,7 @@ Victims consistently describe uncontrollable laughter moments before the attacks
 `
 },
  'file-008': {
-  title: 'CODEX 008: The Unbound',
+  title: 'The Unbound',
   body: `
 <p><strong>Classification:</strong> Breach Entity</p>
 <p><strong>Source:</strong> Failed Containment Records</p>
