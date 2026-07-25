@@ -69,8 +69,8 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
     <p><em>Fear of death is common. Recognition is something else entirely.</em></p>
   `
 },
- 'file-003':{
-  title:'CODEX 003: The Laughing Thing',
+ 'file-003': {
+  title: 'CODEX 003: The Laughing Thing',
   body: `
     <p><strong>Classification:</strong> Entity Observation</p>
     <p><strong>Source:</strong> Unknown</p>
@@ -84,18 +84,21 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
     </p>
 
     <video controls playsinline preload="metadata"
+      poster="laughing-bastard-thumb.jpg"
       style="width:100%; border-radius:12px; margin:18px 0;">
-      <source src="Laughingbastard-1.mov" type="video/quicktime">
+      <source src="Laughingbastard-1.mp4" type="video/mp4">
       Your browser does not support embedded video.
     </video>
 
     <h3>Archivist's Note</h3>
 
     <p><em>
-      It never appeared to notice the camera.
-      It appeared to notice whoever was behind it.
+      The recording ended before the subject reached the camera.
+      No one has explained why.
     </em></p>
   `
+},
+  
 },
  'file-004': {
   title: 'CODEX 004: Recovered Footage',
