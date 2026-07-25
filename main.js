@@ -98,7 +98,6 @@ Multiple abandoned churches throughout Appalachia contain the same crude symbol 
       No one has explained why.
     </em></p>
   `
-},
   
 },
  'file-004': {
