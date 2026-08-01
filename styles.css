@@ -162,3 +162,8 @@ border-color:#b22;
     border:1px solid rgba(243,239,229,.25);
     pointer-events:none;
 }
+.legend-photo img{
+    width:100%;
+    display:block;
+    border-radius:2px;
+}
