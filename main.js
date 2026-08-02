@@ -72,7 +72,7 @@ Every mountain has stories about children who wandered too far.
 The oldest stories insist they didn't wander alone.
 </em></p>
 `
-},
+
 },
  'file-002': {
   title: 'CODEX 002: Fear of Death',
