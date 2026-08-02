@@ -32,7 +32,7 @@ const cases={
 
 <p><strong>Source:</strong> Oral Tradition &amp; Unverified Witness Accounts</p>
 
-<p><strong>Status:</strong> Active</p>
+<p><strong>Status:</strong> Open</p>
 
 <h3>Evidence Summary</h3>
 
