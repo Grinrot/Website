@@ -25,22 +25,54 @@ const cases={
     <p><em>Nothing is truly forgotten. Some things are merely waiting to be cataloged.</em></p>
   `
 },
-  
- 'file-001':{title:'The False Saint',body: `<p><strong>Classification:</strong> Cult Entity</p>
-<p><strong>Source:</strong> Anonymous Parish Records</p>
+  'file-001': {
+  title: 'The Smile in the Tree Line',
+  body: `
+<p><strong>Classification:</strong> Appalachian Folklore</p>
+
+<p><strong>Source:</strong> Oral Tradition &amp; Unverified Witness Accounts</p>
+
 <p><strong>Status:</strong> Active</p>
 
 <h3>Evidence Summary</h3>
 
 <p>
-Multiple abandoned churches throughout Appalachia contain the same crude symbol carved into their altars. Survivors insist a smiling figure stood among the congregation, though no photographs have ever clearly captured his face.
+For generations, mountain families have repeated the same warning to their children:
+</p>
+
+<p><strong>Never walk toward someone smiling from the tree line.</strong></p>
+
+<p>
+The figure is always described the same way&mdash;too far away to identify, standing perfectly still, smiling.
+</p>
+
+<p>
+Adults who investigate usually find nothing.
+</p>
+
+<p>
+Children, however, are said to describe the stranger in remarkable detail.
+</p>
+
+<p>
+Several unsolved disappearances throughout the Appalachian Mountains have quietly fueled the legend. One account tells of a young boy who vanished in the Great Smoky Mountains without leaving so much as a footprint. Years later, locals claimed he had spoken about "a smiling man watching from the trees" shortly before he disappeared. Investigators found no evidence linking the story to the case, and many believe the tale was added long after the fact.
+</p>
+
+<p>
+Whether the legend inspired the rumors, or the rumors kept the legend alive, no one can say.
 </p>
 
 <h3>Archivist's Note</h3>
 
-<p><em>No recognized church has ever acknowledged The False Saint. That has never stopped people from praying to him.
+<p><em>
+Every mountain has stories about children who wandered too far.
+</em></p>
+
+<p><em>
+The oldest stories insist they didn't wander alone.
 </em></p>
 `
+},
 },
  'file-002': {
   title: 'CODEX 002: Fear of Death',
