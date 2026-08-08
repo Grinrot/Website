@@ -285,7 +285,10 @@ The restraints failed first. The weapon came later.
 <p><strong>Location:</strong> Cades Cove, Tennessee</p>
 <p><strong>Classification:</strong> Unresolved Disappearance</p>
 <p><strong>Status:</strong> Folkloric / Unverified</p>
-
+<figure class="case-image">
+ <img src="missing-cabin.JPG" alt="Historic cabin in Cades Cove photographed beyond a wooden fence" style="width:100%; height:auto; display:block;">
+  <figcaption>Cabin along the Cades Cove loop. Date unknown.</figcaption>
+</figure>
 <h3>Evidence Summary</h3>
 
 <p>
