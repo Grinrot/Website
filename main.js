@@ -279,6 +279,82 @@ The restraints failed first. The weapon came later.
 </em></p>
 `
 },
+ 'file-009': {
+  title: 'CODEX 009: The Missing Cabin',
+  body: `
+<p><strong>Location:</strong> Cades Cove, Tennessee</p>
+<p><strong>Classification:</strong> Unresolved Disappearance</p>
+<p><strong>Status:</strong> Folkloric / Unverified</p>
+
+<h3>Evidence Summary</h3>
+
+<p>
+One of the quieter stories told about Cades Cove concerns a church youth group that spent an afternoon riding bicycles through the historic loop.
+</p>
+
+<p>
+The plan was simple. Stay together, ride the loop, and regroup at one of the old cabins before continuing.
+</p>
+
+<p>
+One boy pulled ahead of the others.
+</p>
+
+<p>
+He never found the cabin.
+</p>
+
+<p>
+Believing he had somehow missed the meeting place, he continued riding until he reached the end of the loop. Certain he had gone too far, he turned around and began retracing the road.
+</p>
+
+<p>
+He never returned.
+</p>
+
+<p>
+The youth group waited at the cabin until the afternoon faded into evening. When the boy failed to appear, leaders searched the roads, the fields, and the woods. Rangers joined the effort. Volunteers combed the cove for days.
+</p>
+
+<p>
+No bicycle was ever recovered.
+</p>
+
+<p>
+No trace of the boy was ever found.
+</p>
+
+<p>
+Over the years, the disappearance became something stranger than a missing person case. Locals began to whisper that the cabin had not been missing from the road.
+</p>
+
+<p>
+It had been missing from his road.
+</p>
+
+<p>
+Some believe there are places in Cades Cove where the landscape does not always lead to the same destination. A trail, a bridge, or an old cabin may simply fail to appear, and those who continue searching may cross into somewhere that does not belong on any map.
+</p>
+
+<p>
+Cyclists still tell of hearing the faint click of bicycle spokes drifting through the trees on otherwise silent mornings.
+</p>
+
+<p>
+The sound circles the loop.
+</p>
+
+<p>
+It never arrives.
+</p>
+
+<h3>Archivist's Note</h3>
+
+<p><em>
+If you're certain you've missed the cabin... don't keep riding.
+</em></p>
+`
+},
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
