@@ -229,7 +229,41 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 <p><strong>Status:</strong> Excommunicated</p>
 
 <h3>Evidence Summary</h3>
+<div class="gallery">
 
+  <a href="apostate-001.jpg" target="_blank">
+    <img src="apostate-001.jpg" alt="The Apostate Evidence 01">
+  </a>
+
+  <a href="apostate-002.jpg" target="_blank">
+    <img src="apostate-002.jpg" alt="The Apostate Evidence 02">
+  </a>
+
+  <a href="apostate-003.jpg" target="_blank">
+    <img src="apostate-003.jpg" alt="The Apostate Evidence 03">
+  </a>
+
+  <a href="apostate-004.jpg" target="_blank">
+    <img src="apostate-004.jpg" alt="The Apostate Evidence 04">
+  </a>
+
+  <a href="apostate-005.jpg" target="_blank">
+    <img src="apostate-005.jpg" alt="The Apostate Evidence 05">
+  </a>
+
+  <a href="apostate-006.jpg" target="_blank">
+    <img src="apostate-006.jpg" alt="The Apostate Evidence 06">
+  </a>
+
+  <a href="apostate-007.jpg" target="_blank">
+    <img src="apostate-007.jpg" alt="The Apostate Evidence 07">
+  </a>
+
+  <a href="apostate-008.jpg" target="_blank">
+    <img src="apostate-008.jpg" alt="The Apostate Evidence 08">
+  </a>
+
+</div>
 <p>
 Ancient church records reference an unnamed believer condemned for an act described only as "the final blasphemy." Every surviving witness claims he never removes the painted face that conceals his own.
 </p>
