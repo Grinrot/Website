@@ -225,7 +225,7 @@ A short video depicting the entity known as Doktor Rot. The original recording c
     title: 'The Apostate',
     body: `
 <p><strong>Classification:</strong> Fallen Entity</p>
-<p><strong>Source:</strong> Confiscated Parish Records</p>
+<p><strong>Source:</strong> Confiscated Church Records</p>
 <p><strong>Status:</strong> Excommunicated</p>
 
 <h3>Evidence Summary</h3>
