@@ -229,7 +229,7 @@ A short video depicting the entity known as Doktor Rot. The original recording c
 <p><strong>Status:</strong> Excommunicated</p>
 
 <h3>Evidence Summary</h3>
-<div class="gallery">
+<div class="gallery apostate-gallery">
 
   <a href="apostate-001.jpg" target="_blank">
     <img src="apostate-001.jpg" alt="The Apostate Evidence 01">
