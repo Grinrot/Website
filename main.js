@@ -392,6 +392,166 @@ If you're certain you've missed the cabin... don't keep riding.
 </em></p>
 `
 },
+'file-010': {
+  title: 'CODEX 010: The Gifts',
+  body: `
+    <p><strong>Location:</strong> Southern Appalachia</p>
+    <p><strong>Classification:</strong> Regional Folklore</p>
+    <p><strong>Status:</strong> Unverified</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>
+      There is an old warning in the mountains about things found where they do not belong.
+    </p>
+
+    <p>
+      Most people who remember hearing it learned it as children.
+    </p>
+
+    <p>
+      Never take anything you find near the woods.
+    </p>
+
+    <p>
+      The reasons changed from family to family. Some said the dead left things behind. Others said taking something that wasn’t yours invited its owner to come looking for it.
+    </p>
+
+    <p>
+      But when it came to children’s toys, the warning was always simpler.
+    </p>
+
+    <p>
+      If nobody’s around to give it to you, it isn’t a gift.
+    </p>
+
+    <p>
+      No one seems to remember where the saying began.
+    </p>
+
+    <p>
+      Older accounts describe children finding small objects near the edges of farms and along paths leading into the mountains. Wooden animals. Dolls made from cloth. Marbles. Things inexpensive enough that parents assumed another child had simply lost them.
+    </p>
+
+    <p>
+      Usually, that was probably true.
+    </p>
+
+    <p>
+      But there were stories about toys appearing in places where no child had been.
+    </p>
+
+    <p>
+      A doll sitting on a stump deep in the woods.
+    </p>
+
+    <p>
+      A wooden horse beside an abandoned house.
+    </p>
+
+    <p>
+      A stuffed animal waiting at the end of a road.
+    </p>
+
+    <p>
+      Parents noticed something else.
+    </p>
+
+    <p>
+      The toys were almost always facing away from the woods.
+    </p>
+
+    <p>
+      Children who found them would stop.
+    </p>
+
+    <p>
+      They would crouch down.
+    </p>
+
+    <p>
+      They would pick them up.
+    </p>
+
+    <p>
+      And for a few seconds, they would have their backs to the trees.
+    </p>
+
+    <p>
+      Most of the stories end there.
+    </p>
+
+    <p>
+      The child was called away. A parent came looking. Someone happened to pass by.
+    </p>
+
+    <p>
+      The toy was left where it was.
+    </p>
+
+    <p>
+      Not every story ends that way.
+    </p>
+
+    <p>
+      There are scattered accounts of children disappearing after wandering only a short distance from home. Searchers occasionally found a toy nearby that no one in the family recognized.
+    </p>
+
+    <p>
+      Authorities treated the objects as unrelated.
+    </p>
+
+    <p>
+      They probably were.
+    </p>
+
+    <p>
+      The old warning survived anyway.
+    </p>
+
+    <p>
+      Over time, the handmade dolls became plastic figures. The wooden animals became stuffed ones. The paths became roads and parking lots.
+    </p>
+
+    <p>
+      Whatever truth may have existed beneath the superstition should have disappeared with them.
+    </p>
+
+    <p>
+      Yet children’s toys are still occasionally found sitting alone in strange places.
+    </p>
+
+    <p>
+      Sometimes miles from the nearest house.
+    </p>
+
+    <p>
+      Sometimes beside abandoned buildings.
+    </p>
+
+    <p>
+      Sometimes somewhere a child might notice them.
+    </p>
+
+    <p>
+      There is never anything unusual about the toys themselves.
+    </p>
+
+    <p>
+      That was never the warning.
+    </p>
+
+    <p>
+      The warning was about what might be standing behind you while you picked one up.
+    </p>
+
+    <h3>Archivist's Note</h3>
+
+    <p><em>
+      If nobody's around to give it to you, it isn't a gift.
+    </em></p>
+  `
+}
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
