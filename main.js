@@ -975,6 +975,110 @@ If you're certain you've missed the cabin... don't keep riding.
       The ride has been closed for years.
     </em></p>
   `
+},
+'file-013': {
+  title: 'CODEX 013: The Ones Who Would Not See the Sun',
+  body: `
+    <p><strong>Location:</strong> Tennessee–North Carolina Border</p>
+    <p><strong>Classification:</strong> Regional Folklore / Historical Account</p>
+    <p><strong>Status:</strong> Unverified</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>
+      Long before settlers crossed the mountains, Cherokee stories spoke of a strange people already living among the ridges.
+    </p>
+
+    <p>
+      They were said to have pale skin and enormous eyes that could not bear the daylight. They emerged only beneath the moon, slipping between caves and forests before the first hint of dawn.
+    </p>
+
+    <p>
+      Most historians dismiss the tale as folklore.
+    </p>
+
+    <p>
+      The archive does not.
+    </p>
+
+    <p>
+      In the spring of 1934, three Civilian Conservation Corps workers were mapping a newly discovered cave near the Tennessee–North Carolina border. According to the surviving field notes, the men found evidence that someone had been living deep inside the mountain.
+    </p>
+
+    <p>
+      Not recently.
+    </p>
+
+    <p>
+      Continuously.
+    </p>
+
+    <p>
+      Beds of woven moss. Clay bowls blackened by old fires. Children’s footprints preserved in damp earth.
+    </p>
+
+    <p>
+      The notes ended abruptly.
+    </p>
+
+    <p>
+      “Eyes reflecting deeper in the passage. Too many to count.”
+    </p>
+
+    <p>
+      The remaining pages were never recovered.
+    </p>
+
+    <p>
+      The cave was later sealed after a collapse.
+    </p>
+
+    <p>
+      No official record mentions the missing notebook.
+    </p>
+
+    <p>
+      No excavation was ever completed.
+    </p>
+
+    <p>
+      Every few years, hikers still report pale faces watching from cave entrances after sunset. By the time anyone looks a second time, they’re gone.
+    </p>
+
+    <p>
+      Wildlife experts blame shadows.
+    </p>
+
+    <p>
+      Others blame imagination.
+    </p>
+
+    <p>
+      No explanation has ever accounted for the footprints.
+    </p>
+
+    <p>
+      Always barefoot.
+    </p>
+
+    <p>
+      Always small.
+    </p>
+
+    <p>
+      Always leading farther into the mountain.
+    </p>
+
+    <h3>Archivist's Note</h3>
+
+    <p>
+      The oldest stories insist the Moon-Eyed People disappeared centuries ago.
+    </p>
+
+    <p>
+      The newest reports suggest they simply stopped coming out.
+    </p>
+  `
 } 
 };
 const modal=document.getElementById('caseModal');
