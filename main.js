@@ -875,7 +875,107 @@ If you're certain you've missed the cabin... don't keep riding.
       Some things look exactly like what they are supposed to be.
     </em></p>
   `
-}
+},
+'file-012': {
+  title: 'CODEX 012: The Last Ride',
+  body: `
+    <p><strong>Location:</strong> Abandoned Amusement Park</p>
+    <p><strong>Classification:</strong> Local Folklore / Apparition</p>
+    <p><strong>Status:</strong> Unverified</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>
+      The abandoned amusement park is easy enough to find.
+    </p>
+
+    <p>
+      The tunnel is harder.
+    </p>
+
+    <p>
+      A steep trail climbs the hillside beneath the old chairlift. Rusted chairs still hang overhead, disappearing into the trees as if the ride never truly ended.
+    </p>
+
+    <p>
+      People who have made the climb often remember the same thing.
+    </p>
+
+    <p>
+      The laughter.
+    </p>
+
+    <p>
+      Not loud enough to echo.
+    </p>
+
+    <p>
+      Not close enough to follow.
+    </p>
+
+    <p>
+      Just somewhere above them.
+    </p>
+
+    <p>
+      Most keep walking.
+    </p>
+
+    <p>
+      The tunnel waits at the top of the hill, its entrance swallowing the daylight. By then the laughter has usually stopped.
+    </p>
+
+    <p>
+      That is when people begin looking over their shoulder.
+    </p>
+
+    <p>
+      Some claim they saw someone standing among the empty chairs.
+    </p>
+
+    <p>
+      Others insist the figure was waiting beyond the mouth of the tunnel.
+    </p>
+
+    <p>
+      No two accounts agree.
+    </p>
+
+    <p>
+      Only one detail is repeated often enough to matter.
+    </p>
+
+    <p>
+      The smile.
+    </p>
+
+    <p>
+      No investigation has ever confirmed the stories.
+    </p>
+
+    <p>
+      No recording has captured the laughter.
+    </p>
+
+    <p>
+      Even so, locals still repeat the same advice.
+    </p>
+
+    <p>
+      If you hear someone laughing above the trail…
+    </p>
+
+    <p>
+      …don’t stop to find out where it’s coming from.
+    </p>
+
+    <h3>Archivist's Note</h3>
+
+    <p><em>
+      The ride has been closed for years.
+    </em></p>
+  `
+} 
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
