@@ -1079,7 +1079,22 @@ If you're certain you've missed the cabin... don't keep riding.
       The newest reports suggest they simply stopped coming out.
     </p>
   `
-} 
+},
+ 'file-014': {
+  title: 'CODEX 014: Laughter',
+  body: `
+    <p><strong>Location:</strong> Unknown</p>
+    <p><strong>Classification:</strong> Recovered Audio</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Recovered Recording</h3>
+
+    <audio controls style="width:100%; margin-top:1rem;">
+      <source src="Recovered%20laughter.mp3" type="audio/mpeg">
+      Your browser does not support audio playback.
+    </audio>
+  `
+}
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
