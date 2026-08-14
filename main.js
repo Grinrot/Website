@@ -551,6 +551,330 @@ If you're certain you've missed the cabin... don't keep riding.
       If nobody's around to give it to you, it isn't a gift.
     </em></p>
   `
+},
+ 'file-011': {
+  title: 'CODEX 011: The Buck',
+  body: `
+    <p><strong>Location:</strong> Appalachia</p>
+    <p><strong>Classification:</strong> Witness Account / Regional Folklore</p>
+    <p><strong>Status:</strong> Unverified</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>
+      The hunter had been in the stand since before daylight.
+    </p>
+
+    <p>
+      By sunrise, the woods had settled around him.
+    </p>
+
+    <p>
+      Nothing unusual.
+    </p>
+
+    <p>
+      A few squirrels moving through the leaves. Birds calling farther down the ridge. Once, something small crossed the trail beneath the stand without stopping.
+    </p>
+
+    <p>
+      Then everything went quiet.
+    </p>
+
+    <p>
+      He heard the brush move sometime after eight.
+    </p>
+
+    <p>
+      Not the quick scramble of a rabbit or the careful steps of a doe.
+    </p>
+
+    <p>
+      Something heavy.
+    </p>
+
+    <p>
+      It moved slowly through the thicket below him.
+    </p>
+
+    <p>
+      He raised his rifle and waited.
+    </p>
+
+    <p>
+      A deer stepped through the brush.
+    </p>
+
+    <p>
+      A buck.
+    </p>
+
+    <p>
+      Big.
+    </p>
+
+    <p>
+      Bigger than anything he had seen on the property before.
+    </p>
+
+    <p>
+      For several seconds, the hunter simply watched it through the scope.
+    </p>
+
+    <p>
+      The rack was enormous. The body beneath it was thick through the shoulders and chest. It stood broadside perhaps sixty yards from the stand.
+    </p>
+
+    <p>
+      It should have been the best deer he had ever seen.
+    </p>
+
+    <p>
+      Instead, he lowered the rifle.
+    </p>
+
+    <p>
+      Something wasn’t right.
+    </p>
+
+    <p>
+      Years later, when asked what he had noticed, the hunter couldn’t explain it.
+    </p>
+
+    <p>
+      The proportions looked right.
+    </p>
+
+    <p>
+      The antlers looked right.
+    </p>
+
+    <p>
+      It moved like a deer.
+    </p>
+
+    <p>
+      But looking at it produced the same feeling as recognizing someone from a distance and realizing, as they came closer, that you had never seen them before.
+    </p>
+
+    <p>
+      The buck took another step.
+    </p>
+
+    <p>
+      The hunter raised the rifle again.
+    </p>
+
+    <p>
+      He settled the crosshairs behind the shoulder and fired.
+    </p>
+
+    <p>
+      The shot cracked through the woods.
+    </p>
+
+    <p>
+      The deer didn’t flinch.
+    </p>
+
+    <p>
+      It didn’t jump.
+    </p>
+
+    <p>
+      It didn’t run.
+    </p>
+
+    <p>
+      It simply stood there.
+    </p>
+
+    <p>
+      The hunter stared through the scope.
+    </p>
+
+    <p>
+      He worked the bolt and chambered another round.
+    </p>
+
+    <p>
+      The deer hadn’t moved.
+    </p>
+
+    <p>
+      He fired again.
+    </p>
+
+    <p>
+      Nothing.
+    </p>
+
+    <p>
+      No stumble.
+    </p>
+
+    <p>
+      No blood.
+    </p>
+
+    <p>
+      Not even the twitch of an ear.
+    </p>
+
+    <p>
+      Then the deer turned its head.
+    </p>
+
+    <p>
+      Not quickly.
+    </p>
+
+    <p>
+      Slowly.
+    </p>
+
+    <p>
+      Until it was looking directly up at the stand.
+    </p>
+
+    <p>
+      The hunter later insisted that this was the moment he became afraid.
+    </p>
+
+    <p>
+      Not when the first bullet appeared to miss.
+    </p>
+
+    <p>
+      Not when the second one did.
+    </p>
+
+    <p>
+      When it looked at him.
+    </p>
+
+    <p>
+      The two remained that way for several seconds.
+    </p>
+
+    <p>
+      Neither moved.
+    </p>
+
+    <p>
+      Then the deer turned its head back toward the trees.
+    </p>
+
+    <p>
+      It walked across the clearing.
+    </p>
+
+    <p>
+      Slowly.
+    </p>
+
+    <p>
+      Without urgency.
+    </p>
+
+    <p>
+      It disappeared into the brush.
+    </p>
+
+    <p>
+      The hunter remained in the stand for nearly an hour before climbing down.
+    </p>
+
+    <p>
+      He found where the animal had been standing.
+    </p>
+
+    <p>
+      He found both places where his bullets had struck the earth beyond it.
+    </p>
+
+    <p>
+      He found tracks leading into the clearing.
+    </p>
+
+    <p>
+      He found tracks leaving it.
+    </p>
+
+    <p>
+      There was no blood.
+    </p>
+
+    <p>
+      No hair.
+    </p>
+
+    <p>
+      Nothing indicating that either bullet had touched the animal.
+    </p>
+
+    <p>
+      He never hunted that stand again.
+    </p>
+
+    <p>
+      The story would be largely forgotten until decades later, when similar accounts began circulating throughout Appalachia.
+    </p>
+
+    <p>
+      The descriptions vary.
+    </p>
+
+    <p>
+      Too tall.
+    </p>
+
+    <p>
+      Too thin.
+    </p>
+
+    <p>
+      Legs that seem slightly too long.
+    </p>
+
+    <p>
+      Eyes that don’t look where a deer’s eyes should.
+    </p>
+
+    <p>
+      Some witnesses describe animals that walk strangely.
+    </p>
+
+    <p>
+      Others describe nothing unusual at all.
+    </p>
+
+    <p>
+      Only the certainty that what they were looking at was wrong.
+    </p>
+
+    <p>
+      Today, those stories have a name.
+    </p>
+
+    <p>
+      Not Deer.
+    </p>
+
+    <p>
+      The name is new.
+    </p>
+
+    <p>
+      The feeling isn’t.
+    </p>
+
+    <h3>Archivist's Note</h3>
+
+    <p><em>
+      Some things look exactly like what they are supposed to be.
+    </em></p>
+  `
 }
 };
 const modal=document.getElementById('caseModal');
