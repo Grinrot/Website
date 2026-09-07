@@ -1424,6 +1424,106 @@ If you're certain you've missed the cabin... don't keep riding.
 
     <p><em>&mdash;Names redacted</em></p>
   `
+},
+ 'file-018': {
+  title: 'CODEX 018: The Angel',
+  body: `
+    <p><strong>Location:</strong> East Knoxville, Tennessee</p>
+    <p><strong>Classification:</strong> Witness Account / Suspected Haunted Object</p>
+    <p><strong>Status:</strong> Inactive After Removal</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>They lived in a small cottage in East Knoxville.</p>
+
+    <p>One weekend, his wife came home from a yard sale with a handmade primitive angel.</p>
+
+    <p>It was the kind of thing someone had made by hand. Rough. Simple. Old-looking.</p>
+
+    <p>She liked it.</p>
+
+    <p>So they kept it.</p>
+
+    <p>A few days later, he was in the bathroom when he saw his wife walk past the open door.</p>
+
+    <p>There was nothing strange about it.</p>
+
+    <p>He saw her pass by and called out to her.</p>
+
+    <p>She didn't answer.</p>
+
+    <p>He finished brushing his teeth and walked out to see where she'd gone.</p>
+
+    <p>He turned left.</p>
+
+    <p>She wasn't there.</p>
+
+    <p>So he went the other way, back toward the kitchen.</p>
+
+    <p>She was standing there.</p>
+
+    <p>He asked if she'd just walked past the bathroom.</p>
+
+    <p>She hadn't.</p>
+
+    <p>She hadn't even been back there.</p>
+
+    <p>He knew what he'd seen.</p>
+
+    <p>It looked like her.</p>
+
+    <p>Not a shadow.</p>
+
+    <p>Not something at the edge of his vision.</p>
+
+    <p>Her.</p>
+
+    <p>After that, his wife started noticing things too.</p>
+
+    <p>Shapes.</p>
+
+    <p>Movement.</p>
+
+    <p>Something passing through a room when nobody should have been there.</p>
+
+    <p>Nothing dramatic ever happened.</p>
+
+    <p>Nothing spoke to them.</p>
+
+    <p>Nothing attacked them.</p>
+
+    <p>They just kept seeing things that weren't supposed to be there.</p>
+
+    <p>And it had all started shortly after the angel came home.</p>
+
+    <p>Eventually, his wife got rid of it.</p>
+
+    <p>They never tried to find out where it came from.</p>
+
+    <p>They never tried to learn who made it.</p>
+
+    <p>They didn't investigate its history.</p>
+
+    <p>They just wanted it gone.</p>
+
+    <p>After that, the cottage became quiet again.</p>
+
+    <p>No more shapes.</p>
+
+    <p>No more movement.</p>
+
+    <p>And he never saw his wife walk past a doorway while she was somewhere else in the house.</p>
+
+    <p>Maybe the timing was coincidence.</p>
+
+    <p>Maybe there was never anything strange about the angel at all.</p>
+
+    <p>He doesn't know.</p>
+
+    <p>He's occasionally wondered where it ended up.</p>
+
+    <p>But never wondered enough to go looking for it.</p>
+  `
 }
 };
 const modal=document.getElementById('caseModal');
