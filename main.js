@@ -1094,6 +1094,142 @@ If you're certain you've missed the cabin... don't keep riding.
       Your browser does not support audio playback.
     </audio>
   `
+},
+ 'file-015': {
+  title: 'CODEX 015: Insomnia',
+  body: `
+    <p><strong>Location:</strong> Unknown</p>
+    <p><strong>Classification:</strong> Recovered Personal Account</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>I haven't slept in nine days.</p>
+
+    <p>Not slept badly.</p>
+
+    <p>Nothing.</p>
+
+    <p>I've closed my eyes. I've taken sleeping pills. I've lain in bed until morning staring at the ceiling.</p>
+
+    <p>Nothing works.</p>
+
+    <p>By the third day, things started moving at the edges of my vision.</p>
+
+    <p>By the fourth, I heard people talking in empty rooms.</p>
+
+    <p>Sleep deprivation causes hallucinations.</p>
+
+    <p>Knowing that helps.</p>
+
+    <p>A little.</p>
+
+    <p>On the fifth night, I heard someone breathing beneath my bed.</p>
+
+    <p>I didn't look.</p>
+
+    <p>That's another thing I've learned.</p>
+
+    <p>Don't investigate anything you see or hear after midnight.</p>
+
+    <p>The coat hanging on the door is a coat.</p>
+
+    <p>The whisper from the hallway is the refrigerator.</p>
+
+    <p>Then the whispers started.</p>
+
+    <p>Every time I got close to sleep, I'd hear them.</p>
+
+    <p>Too faint to understand.</p>
+
+    <p>Not quite a voice. More like someone speaking from the next room with the door closed.</p>
+
+    <p>My eyes would open.</p>
+
+    <p>Silence.</p>
+
+    <p>I'd start drifting again.</p>
+
+    <p>The whispering would return.</p>
+
+    <p>After a while, I stopped trying to understand what it was saying.</p>
+
+    <p>I was afraid eventually I would.</p>
+
+    <p>The doctors tried different medications.</p>
+
+    <p>Nothing.</p>
+
+    <p>One told me to go to the hospital.</p>
+
+    <p>I didn't.</p>
+
+    <p>After nine days without sleep, you'll try things you once considered stupid.</p>
+
+    <p>That's how I ended up with the chloroform.</p>
+
+    <p>An old bottle. Probably dangerous.</p>
+
+    <p>I didn't care.</p>
+
+    <p>I just wanted to sleep.</p>
+
+    <p>I put the prescriptions, the bottle, a flashlight, and my phone on the table.</p>
+
+    <p>Then I started recording.</p>
+
+    <p>Just in case.</p>
+
+    <p>I soaked a cloth.</p>
+
+    <p>Lay down.</p>
+
+    <p>Breathed.</p>
+
+    <p>And for the first time in nine days&mdash;</p>
+
+    <p>nothing.</p>
+
+    <p>I woke to sunlight.</p>
+
+    <p>Eleven hours had passed.</p>
+
+    <p>I actually cried.</p>
+
+    <p>Then I remembered the recording.</p>
+
+    <p>For the first six hours, nothing happened.</p>
+
+    <p>I was unconscious somewhere outside the camera's view.</p>
+
+    <p>Then I heard it.</p>
+
+    <p>Whispering.</p>
+
+    <p>Faint at first.</p>
+
+    <p>I turned the volume up.</p>
+
+    <p>It wasn't coming from me.</p>
+
+    <p>I almost stopped watching.</p>
+
+    <p>Then my sleeping voice answered it.</p>
+
+    <p>Twenty minutes before I woke, I walked into frame.</p>
+
+    <p>I don't remember doing it.</p>
+
+    <p>I placed a folded piece of paper beside the chloroform bottle and walked away.</p>
+
+    <p>The paper was still there.</p>
+
+    <p>Four words.</p>
+
+    <p>My handwriting.</p>
+
+    <p><strong>YOU WEREN'T SUPPOSED TO SLEEP.</strong></p>
+  `
 }
 };
 const modal=document.getElementById('caseModal');
