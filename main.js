@@ -1230,6 +1230,90 @@ If you're certain you've missed the cabin... don't keep riding.
 
     <p><strong>YOU WEREN'T SUPPOSED TO SLEEP.</strong></p>
   `
+},
+ 'file-016': {
+  title: 'CODEX 016: The Light',
+  body: `
+    <p><strong>Location:</strong> East Tennessee</p>
+    <p><strong>Classification:</strong> Witness Account / Recurring Phenomenon</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>When I was a kid, a few of us waited for the school bus in front of a house at the bottom of a hill.</p>
+
+    <p>One morning, while it was still dark, I saw a light come from behind the house.</p>
+
+    <p>It moved beside the house, passed in front of us, crossed the road, traveled through the field, crossed another road&mdash;</p>
+
+    <p>and disappeared.</p>
+
+    <p>I asked the others if they'd seen it.</p>
+
+    <p>Nobody had.</p>
+
+    <p>That evening I told my mother.</p>
+
+    <p>She went quiet.</p>
+
+    <p>Then she told me to tell my stepfather exactly what I'd told her.</p>
+
+    <p>So I did.</p>
+
+    <p>He listened without interrupting.</p>
+
+    <p>When I finished, he told me that when he was a kid, he'd waited for the bus in the same place.</p>
+
+    <p>And one morning he'd seen the light too.</p>
+
+    <p>Same path.</p>
+
+    <p>Same field.</p>
+
+    <p>Same direction.</p>
+
+    <p>And just like me, he'd been standing with other kids.</p>
+
+    <p>Nobody else saw it.</p>
+
+    <p>We never really talked about it again.</p>
+
+    <p>Years passed.</p>
+
+    <p>The house changed. The road changed. Most of the people who lived there moved away.</p>
+
+    <p>But I've never forgotten the light.</p>
+
+    <p>Especially something my stepfather said before the conversation ended.</p>
+
+    <p>I didn't understand why it bothered my mother so much at the time.</p>
+
+    <p>I do now.</p>
+
+    <p>Before him, someone else in his family had seen it.</p>
+
+    <p>Same place.</p>
+
+    <p>Same age.</p>
+
+    <p>Nobody else could see it.</p>
+
+    <p>I asked him what he thought it was.</p>
+
+    <p>He said he didn't know.</p>
+
+    <p>Then my mother asked the question neither of us had thought to ask.</p>
+
+    <p>"Did it go the same direction both times?"</p>
+
+    <p>It had.</p>
+
+    <p>She looked toward the window.</p>
+
+    <p>Then she said:</p>
+
+    <p><strong>"Then it still hasn't found what it's looking for."</strong></p>
+  `
 }
 };
 const modal=document.getElementById('caseModal');
