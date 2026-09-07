@@ -1314,6 +1314,116 @@ If you're certain you've missed the cabin... don't keep riding.
 
     <p><strong>"Then it still hasn't found what it's looking for."</strong></p>
   `
+},
+ 'file-017': {
+  title: 'CODEX 017: The Stranger',
+  body: `
+    <p><strong>Location:</strong> Lake City, Tennessee</p>
+    <p><strong>Classification:</strong> Witness Account / Unidentified Stranger</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>When his daughter was a toddler, he made a trip to Kentucky and back.</p>
+
+    <p>He was exhausted.</p>
+
+    <p>To stay awake, he took caffeine pills.</p>
+
+    <p>A lot of them.</p>
+
+    <p>And washed them down with six Mountain Dews.</p>
+
+    <p>Somewhere around Lake City on the way home, something went wrong.</p>
+
+    <p>His heart was racing.</p>
+
+    <p>He couldn't breathe.</p>
+
+    <p>He was convinced he was dying.</p>
+
+    <p>He pulled off the road.</p>
+
+    <p>His daughter stayed in the car while he got out and wandered around nearby, panicking and trying to figure out what to do.</p>
+
+    <p>That's when the van pulled up.</p>
+
+    <p>The driver had long, greasy hair. The stranger looked rough enough that under different circumstances he probably wouldn't have wanted him stopping.</p>
+
+    <p>The stranger asked what was wrong.</p>
+
+    <p>He told him he was freaking out.</p>
+
+    <p>That he thought he was dying.</p>
+
+    <p>The stranger listened.</p>
+
+    <p>Then got back into his van and drove away.</p>
+
+    <p>He managed to call his ex-wife.</p>
+
+    <p>She and his father were already on their way to find them, but he was disoriented and couldn't explain exactly where he was.</p>
+
+    <p>While searching, they stopped at a gas station.</p>
+
+    <p>A man approached his ex-wife.</p>
+
+    <p>Long, greasy hair.</p>
+
+    <p>He asked her one question.</p>
+
+    <p>"Are you her?"</p>
+
+    <p>She said yes.</p>
+
+    <p>Then he told her:</p>
+
+    <p>"They are okay.</p>
+
+    <p>But he is in trouble."</p>
+
+    <p>They found them.</p>
+
+    <p>He ended up in the hospital.</p>
+
+    <p>He'd overdosed on caffeine.</p>
+
+    <p>He came very close to dying.</p>
+
+    <p>His daughter was okay.</p>
+
+    <p>So was he, eventually.</p>
+
+    <p>But there's one part of that night he's never been able to explain.</p>
+
+    <p>He never told the stranger his daughter's name.</p>
+
+    <p>He never told the stranger his ex-wife's name.</p>
+
+    <p>He never even told the stranger his own.</p>
+
+    <p>He didn't know what she looked like.</p>
+
+    <p>He didn't know where she would stop.</p>
+
+    <p>But somehow, in another place along that road, he walked directly up to her and asked:</p>
+
+    <p>"Are you her?"</p>
+
+    <p>He doesn't know who the stranger was.</p>
+
+    <p>He doesn't know how he found her.</p>
+
+    <p>He doesn't know how he knew who she was looking for.</p>
+
+    <p>He only knows that the stranger stopped when he needed someone to stop.</p>
+
+    <p>And somehow, he found the people who needed to find him.</p>
+
+    <p>He never saw the stranger again.</p>
+
+    <p><em>&mdash;Names redacted</em></p>
+  `
 }
 };
 const modal=document.getElementById('caseModal');
