@@ -1525,6 +1525,56 @@ If you're certain you've missed the cabin... don't keep riding.
     <p>But never wondered enough to go looking for it.</p>
   `
 }
+, 'file-019': {
+  title: 'CODEX 019: The Walk Down the Holler',
+  body: `
+    <p><strong>Location:</strong> East Tennessee</p>
+    <p><strong>Classification:</strong> Witness Account / Unidentified Presence</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>When I was a kid, I walked down the holler alone every morning to catch the school bus.</p>
+
+    <p>Most mornings it was still dark.</p>
+
+    <p>That was when something began following me.</p>
+
+    <p>I never saw it. I only heard branches breaking and footsteps pushing through the dead leaves inside the tree line. If I walked faster, it kept pace. If I slowed down, it slowed with me.</p>
+
+    <p>My father said it was probably a bobcat.</p>
+
+    <p>I accepted that because the alternative was walking the same road each morning believing something wanted me.</p>
+
+    <p>It never came onto the road. It never growled or called out. It simply followed until I reached the place where the other children waited.</p>
+
+    <p>Then the woods went quiet.</p>
+
+    <p>This happened for months. Eventually it stopped, and I grew up without ever learning what it was.</p>
+
+    <p>Last year, I returned home for a funeral and ran into one of the girls who had waited for the bus with me. We talked about the old road and how frightened I had been of the animal in the woods.</p>
+
+    <p>She stopped smiling.</p>
+
+    <p>&ldquo;That wasn&rsquo;t an animal,&rdquo; she said.</p>
+
+    <p>I asked how she knew.</p>
+
+    <p>&ldquo;Because we could see him after you reached us.&rdquo;</p>
+
+    <p>I reminded her that the sound always stopped.</p>
+
+    <p>&ldquo;He stopped walking,&rdquo; she said. &ldquo;He didn&rsquo;t leave.&rdquo;</p>
+
+    <p>She told me a man would stand between the trees and watch us until the bus carried me away. None of the children mentioned him because they assumed I knew who he was.</p>
+
+    <p>&ldquo;We thought he was your father,&rdquo; she said. &ldquo;Until I saw you today.&rdquo;</p>
+
+    <p>She stared at my face for a long time.</p>
+
+    <p><strong>&ldquo;You finally grew into him.&rdquo;</strong></p>
+  }
+
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
