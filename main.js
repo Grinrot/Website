@@ -1574,6 +1574,52 @@ If you're certain you've missed the cabin... don't keep riding.
 
     <p><strong>&ldquo;You finally grew into him.&rdquo;</strong></p>
   `
+  },
+ 'file-020': {
+  title: 'CODEX 020: Not Alone',
+  body: `
+    <p><strong>Location:</strong> Private Residence</p>
+    <p><strong>Classification:</strong> Witness Account / Unidentified Presence</p>
+    <p><strong>Status:</strong> Unresolved</p>
+
+    <h3>Evidence Summary</h3>
+
+    <p>It was the lowest night of her life.</p>
+
+    <p>She sat alone in her dark bedroom, crying into the silence. She had stopped wondering whether anyone would miss her.</p>
+
+    <p>Now she was wondering how long it would take them to find her.</p>
+
+    <p>The thought didn&rsquo;t frighten her anymore.</p>
+
+    <p>That was how she knew she was ready.</p>
+
+    <p>A tear slipped from the corner of her eye and began to roll down her cheek.</p>
+
+    <p>Something wiped it away.</p>
+
+    <p>A hand moved gently across her face.</p>
+
+    <p>She stopped breathing.</p>
+
+    <p>There was no one beside her. No one else in the house. The bedroom door was closed, and the room was too dark to see beyond the edge of the bed.</p>
+
+    <p>But she could still feel the path of those fingers against her skin.</p>
+
+    <p>She reached for the lamp.</p>
+
+    <p>The room was empty.</p>
+
+    <p>Whatever had touched her never showed itself.</p>
+
+    <p>She didn&rsquo;t take her life that night.</p>
+
+    <p>Not because she suddenly wanted to live&mdash;</p>
+
+    <p>but because she realized she wasn&rsquo;t alone.</p>
+
+    <p>And she no longer knew what might be waiting for her to die.</p>
+  `
   }
 
 };
