@@ -1625,7 +1625,26 @@ If you're certain you've missed the cabin... don't keep riding.
 };
 const modal=document.getElementById('caseModal');
 const content=document.getElementById('caseContent');
-document.querySelectorAll('[data-case]').forEach(btn=>btn.addEventListener('click',()=>{const item=cases[btn.dataset.case];content.innerHTML=`<span class="file-stamp">RECOVERED DOCUMENT</span><h3>${item.title}</h3><p>${item.body}</p>`;modal.showModal();}));
+const track=(name,params={})=>{if(typeof gtag==='function')gtag('event',name,params);};
+document.querySelectorAll('[data-case]').forEach(btn=>btn.addEventListener('click',()=>{
+  const item=cases[btn.dataset.case];
+  if(!item||!content||!modal)return;
+  track('character_open',{character_name:item.title});
+  content.innerHTML=`<span class="file-stamp">RECOVERED DOCUMENT</span><h3>${item.title}</h3><p>${item.body}</p>`;
+  modal.showModal();
+}));
+
+document.querySelectorAll('[data-track="codex"]').forEach(link=>link.addEventListener('click',()=>{
+  track('codex_story_open',{story_slug:link.dataset.codex});
+}));
+
+document.querySelectorAll('[data-track="shop"]').forEach(link=>link.addEventListener('click',()=>{
+  track('shop_click',{link_url:link.href});
+}));
+
+document.querySelectorAll('.field-journal-grid a').forEach(link=>link.addEventListener('click',()=>{
+  track('gallery_open',{evidence_file:link.getAttribute('href')});
+}));
 
 document.querySelector('.close-modal')?.addEventListener('click',()=>modal.close());
 modal?.addEventListener('click',e=>{if(e.target===modal)modal.close();});
