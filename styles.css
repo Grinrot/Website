@@ -173,3 +173,88 @@ border-color:#b22;
     display:block;
     border-radius:2px;
 }
+
+/* Individual Codex entries */
+.case-card{
+  display:block;
+  text-decoration:none;
+  transition:border-color .2s ease,transform .2s ease,background .2s ease;
+}
+.case-card:hover,.case-card:focus-visible{
+  border-color:rgba(143,36,31,.85);
+  background:linear-gradient(145deg,rgba(143,36,31,.24),rgba(255,255,255,.04));
+  transform:translateY(-2px);
+}
+.codex-page .site-header{
+  background:linear-gradient(to bottom,rgba(5,5,5,.98),rgba(5,5,5,.82),transparent);
+}
+.codex-entry{
+  position:relative;
+  z-index:10;
+  width:min(100%,860px);
+  margin:0 auto;
+  padding:clamp(118px,15vw,170px) clamp(20px,5vw,52px) 70px;
+}
+.codex-document{
+  border:1px solid var(--line);
+  background:linear-gradient(155deg,rgba(143,36,31,.10),rgba(255,255,255,.025) 28%,rgba(5,5,5,.92));
+  box-shadow:0 30px 120px rgba(0,0,0,.55);
+  padding:clamp(28px,7vw,68px);
+}
+.codex-document h1{
+  max-width:15ch;
+  margin:10px 0 38px;
+  font-size:clamp(2.5rem,8vw,5.5rem);
+  line-height:.95;
+  letter-spacing:-.045em;
+}
+.codex-body{
+  max-width:68ch;
+}
+.codex-body p{
+  margin:0 0 1.25rem;
+  color:var(--ash);
+  font-size:clamp(1rem,2vw,1.12rem);
+}
+.codex-body h3{
+  margin:2.75rem 0 1rem;
+  color:var(--bone);
+  font-size:1.45rem;
+  letter-spacing:.01em;
+}
+.codex-body strong{
+  color:var(--bone);
+}
+.codex-body figure{
+  margin:2rem 0;
+}
+.codex-body figcaption{
+  margin-top:.65rem;
+  color:var(--ash);
+  font-size:.85rem;
+}
+.codex-back{
+  display:inline-block;
+  margin-bottom:34px;
+  color:var(--ash);
+  text-decoration:none;
+  text-transform:uppercase;
+  font-size:.75rem;
+  font-weight:800;
+  letter-spacing:.14em;
+}
+.codex-back:hover,.codex-back:focus-visible{
+  color:var(--bone);
+}
+.codex-back-bottom{
+  margin:42px 0 0;
+  padding-top:24px;
+  border-top:1px solid var(--line);
+  width:100%;
+}
+
+@media(max-width:560px){
+  .codex-entry{padding-top:104px}
+  .codex-document{padding:26px 20px}
+  .codex-document h1{margin-bottom:30px}
+}
